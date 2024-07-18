@@ -1,0 +1,77 @@
+city,year,rain,snowfall,Agency,NTD ID,UPT,Year,VOMS,City,State
+Buffalo,2008,4.1535435,0.11023622,Niagara Frontier Transportation Authority,20004,6868958,2008,23,Buffalo,NY
+Buffalo,2009,9.03937,0.0,Niagara Frontier Transportation Authority,20004,6259921,2009,23,Buffalo,NY
+Buffalo,2010,7.2559056,2.2874014,Niagara Frontier Transportation Authority,20004,5990778,2010,23,Buffalo,NY
+Buffalo,2011,5.787401,0.05511811,Niagara Frontier Transportation Authority,20004,6973287,2011,23,Buffalo,NY
+Buffalo,2012,12.09055,0.11023623,Niagara Frontier Transportation Authority,20004,6460209,2012,23,Buffalo,NY
+Buffalo,2013,7.3346453,0.0,Niagara Frontier Transportation Authority,20004,5058439,2013,23,Buffalo,NY
+Buffalo,2014,12.208661,1.2125984,Niagara Frontier Transportation Authority,20004,4273515,2014,23,Buffalo,NY
+Buffalo,2015,9.614173,0.05511811,Niagara Frontier Transportation Authority,20004,5218485,2015,23,Buffalo,NY
+Buffalo,2016,7.153543,1.2952756,Niagara Frontier Transportation Authority,20004,4899621,2016,23,Buffalo,NY
+Buffalo,2017,11.05118,0.027559055,Niagara Frontier Transportation Authority,20004,4560644,2017,23,Buffalo,NY
+Buffalo,2018,8.818897,1.3228346,Niagara Frontier Transportation Authority,20004,4492168,2018,23,Buffalo,NY
+Buffalo,2019,7.503937,0.0,Niagara Frontier Transportation Authority,20004,4404283,2019,23,Buffalo,NY
+Buffalo,2020,9.763779,0.0,Niagara Frontier Transportation Authority,20004,2000000,2020,23,Buffalo,NY
+Buffalo,2021,7.9566927,0.16535433,Niagara Frontier Transportation Authority,20004,1890238,2021,21,Buffalo,NY
+Buffalo,2022,7.9448814,1.9291339,Niagara Frontier Transportation Authority,20004,2368887,2022,21,Buffalo,NY
+Buffalo,2023,4.129921,0.0,Niagara Frontier Transportation Authority,20004,2433450,2023,21,Buffalo,NY
+Cleveland,2008,7.5196843,0.99212605,The Greater Cleveland Regional Transit Authority,50015,4144499,2008,17,Cleveland,OH
+Cleveland,2009,9.326772,0.16535434,The Greater Cleveland Regional Transit Authority,50015,3091274,2009,17,Cleveland,OH
+Cleveland,2010,3.704724,1.0748031,The Greater Cleveland Regional Transit Authority,50015,2691243,2010,17,Cleveland,OH
+Cleveland,2011,9.350394,0.0,The Greater Cleveland Regional Transit Authority,50015,2745106,2011,36,Cleveland,OH
+Cleveland,2012,7.8622046,0.0,The Greater Cleveland Regional Transit Authority,50015,2856379,2012,13,Cleveland,OH
+Cleveland,2013,11.826771,0.93700784,The Greater Cleveland Regional Transit Authority,50015,2897940,2013,14,Cleveland,OH
+Cleveland,2014,8.480314,2.011811,The Greater Cleveland Regional Transit Authority,50015,2779158,2014,14,Cleveland,OH
+Cleveland,2015,11.3307085,1.7637793,The Greater Cleveland Regional Transit Authority,50015,2608770,2015,14,Cleveland,OH
+Cleveland,2016,11.094488,2.011811,The Greater Cleveland Regional Transit Authority,50015,2468330,2016,13,Cleveland,OH
+Cleveland,2017,10.8307085,8.956693,The Greater Cleveland Regional Transit Authority,50015,2114753,2017,13,Cleveland,OH
+Cleveland,2018,12.307086,1.2677164,The Greater Cleveland Regional Transit Authority,50015,1638170,2018,13,Cleveland,OH
+Cleveland,2019,6.9330707,0.08267717,The Greater Cleveland Regional Transit Authority,50015,1484863,2019,9,Cleveland,OH
+Cleveland,2020,13.283464,0.5787401,The Greater Cleveland Regional Transit Authority,50015,589245,2020,6,Cleveland,OH
+Cleveland,2021,6.2992125,0.7440945,The Greater Cleveland Regional Transit Authority,50015,465123,2021,5,Cleveland,OH
+Cleveland,2022,8.677165,1.3228346,The Greater Cleveland Regional Transit Authority,50015,681390,2022,8,Cleveland,OH
+Cleveland,2023,13.452756,0.0,The Greater Cleveland Regional Transit Authority,50015,662113,2023,8,Cleveland,OH
+Hampton,2011,8.15748,0.0,Transportation District Commission of Hampton Roads,30083,639031,2011,9,Hampton,VA
+Hampton,2012,7.8031497,0.0,Transportation District Commission of Hampton Roads,30083,1651310,2012,7,Hampton,VA
+Hampton,2013,10.795276,0.49606293,Transportation District Commission of Hampton Roads,30083,1654104,2013,7,Hampton,VA
+Hampton,2014,6.248031,4.1889763,Transportation District Commission of Hampton Roads,30083,1604911,2014,6,Hampton,VA
+Hampton,2015,12.700787,0.7992126,Transportation District Commission of Hampton Roads,30083,1454979,2015,6,Hampton,VA
+Hampton,2016,10.582676,0.4409449,Transportation District Commission of Hampton Roads,30083,1391329,2016,6,Hampton,VA
+Hampton,2017,9.779527,0.77165353,Transportation District Commission of Hampton Roads,30083,1402316,2017,6,Hampton,VA
+Hampton,2018,13.77559,0.8818898,Transportation District Commission of Hampton Roads,30083,1462647,2018,6,Hampton,VA
+Hampton,2019,8.275591,0.05511811,Transportation District Commission of Hampton Roads,30083,1345122,2019,6,Hampton,VA
+Hampton,2020,10.417322,0.0,Transportation District Commission of Hampton Roads,30083,650306,2020,6,Hampton,VA
+Hampton,2021,6.92126,0.0,Transportation District Commission of Hampton Roads,30083,620673,2021,6,Hampton,VA
+Hampton,2022,4.019685,2.0669293,Transportation District Commission of Hampton Roads,30083,735452,2022,5,Hampton,VA
+Hampton,2023,12.110236,0.0,Transportation District Commission of Hampton Roads,30083,782344,2023,5,Hampton,VA
+Phoenix,2009,17.417322,1.2677164,"Valley Metro Rail, Inc.",90209,11348341,2009,34,Phoenix,AZ
+Phoenix,2010,9.11811,3.8307087,"Valley Metro Rail, Inc.",90209,12616937,2010,32,Phoenix,AZ
+Phoenix,2011,8.216536,2.0669289,"Valley Metro Rail, Inc.",90209,13161638,2011,28,Phoenix,AZ
+Phoenix,2012,9.889764,0.05511811,"Valley Metro Rail, Inc.",90209,14042008,2012,26,Phoenix,AZ
+Phoenix,2013,8.374016,1.488189,"Valley Metro Rail, Inc.",90209,14226293,2013,26,Phoenix,AZ
+Phoenix,2014,9.531496,0.16535433,"Valley Metro Rail, Inc.",90209,14263662,2014,28,Phoenix,AZ
+Phoenix,2015,7.763779,0.992126,"Valley Metro Rail, Inc.",90209,14759817,2015,36,Phoenix,AZ
+Phoenix,2016,13.9921255,0.27559054,"Valley Metro Rail, Inc.",90209,16303599,2016,38,Phoenix,AZ
+Phoenix,2017,6.1023617,0.027559055,"Valley Metro Rail, Inc.",90209,16268923,2017,38,Phoenix,AZ
+Phoenix,2018,13.09055,6.6968503,"Valley Metro Rail, Inc.",90209,15406410,2018,38,Phoenix,AZ
+Phoenix,2019,13.85433,0.0,"Valley Metro Rail, Inc.",90209,15060207,2019,38,Phoenix,AZ
+Phoenix,2020,10.862205,0.0,"Valley Metro Rail, Inc.",90209,8557187,2020,40,Phoenix,AZ
+Phoenix,2021,12.704724,2.3976378,"Valley Metro Rail, Inc.",90209,7250503,2021,38,Phoenix,AZ
+Phoenix,2022,8.685039,3.3897638,"Valley Metro Rail, Inc.",90209,8786881,2022,32,Phoenix,AZ
+Phoenix,2023,8.724409,0.19291338,"Valley Metro Rail, Inc.",90209,10055291,2023,32,Phoenix,AZ
+Saint Louis,2008,11.031495,0.22047244,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,22658347,2008,60,Saint Louis,MO
+Saint Louis,2009,10.629921,0.52362204,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,18136118,2009,60,Saint Louis,MO
+Saint Louis,2010,6.019685,0.60629916,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,15776273,2010,50,Saint Louis,MO
+Saint Louis,2011,6.389764,0.0,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,16505238,2011,58,Saint Louis,MO
+Saint Louis,2012,13.976377,0.30314958,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,17128317,2012,58,Saint Louis,MO
+Saint Louis,2013,12.696849,1.1299213,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,17395931,2013,58,Saint Louis,MO
+Saint Louis,2014,13.098425,4.685039,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,17181985,2014,58,Saint Louis,MO
+Saint Louis,2015,5.637795,9.700788,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,16081738,2015,58,Saint Louis,MO
+Saint Louis,2016,17.523623,0.7992126,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,15343956,2016,58,Saint Louis,MO
+Saint Louis,2017,5.9212594,0.66141737,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,14115287,2017,58,Saint Louis,MO
+Saint Louis,2018,7.929134,0.992126,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,13220212,2018,58,Saint Louis,MO
+Saint Louis,2019,5.059055,1.7913387,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,13087672,2019,50,Saint Louis,MO
+Saint Louis,2020,10.929133,1.3228347,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,6746245,2020,50,Saint Louis,MO
+Saint Louis,2021,7.240157,0.33070865,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,5884125,2021,42,Saint Louis,MO
+Saint Louis,2022,8.523622,1.1850393,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,6755791,2022,42,Saint Louis,MO
+Saint Louis,2023,8.913385,0.0,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,70006,6726853,2023,32,Saint Louis,MO
